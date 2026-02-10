@@ -50,7 +50,7 @@ A dynamic Next.js e-commerce template supporting multi-tenant subdomains via Gra
 ## Extending the Template
 
 ### Adding New Subdomains
-The template automatically supports any subdomain that exists in the Ecomsel database. No code changes are needed. Just point the subdomain to this deployment.
+The template automatically supports any subdomain. No code changes are needed. Just point the subdomain to this deployment.
 
 ### Adding New Pages
 1. Create a file in `pages/new-page.tsx`.
